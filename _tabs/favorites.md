@@ -1,5 +1,5 @@
 ---
 layout: page
 icon: fas fa-star
-order: 2
+order: 3
 ---
