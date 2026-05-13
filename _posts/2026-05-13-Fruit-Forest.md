@@ -1,7 +1,7 @@
 ---
 title: Fruit Forest
 date: 2026-05-13 21:37:00 +1200
-media_subpath: assets/img/posts/2026-05-13-Fruit-Forest
+media_subpath: /assets/img/posts/2026-05-13-Fruit-Forest
 categories: [Life]
 tags: [babbling]
 ---
