@@ -3,7 +3,7 @@ title: Fruit Forest
 date: 2026-05-13 21:37:00 +1200
 media_subpath: /assets/img/posts/2026-05-13-Fruit%20Forest
 categories: [Life]
-tags: [Babbling]
+tags: [babbling]
 ---
 
 身处的这个世界<br>
@@ -49,6 +49,6 @@ tags: [Babbling]
 只要有这样的人<br>
 我就可以在这个常常让我觉得困惑的水果森林里一直走下去<br>
 
-![Fruit Forest](fruit-forest.jpeg)
+![Fruit Forest](fruit-forest.jpeg){width=66% height=66%}
 *Generated with Ideogram AI*
 Outside of the fruit, forest, everyone is busy talking about AI now.
