@@ -18,7 +18,9 @@ tags: [babbling]
 >
 > *Sena: Then things will get better.*
 
-Was made redundant recently, the time that was usually occupied by work suddenly became free, and the coworkers I used to talk to almost every day were no longer there. It felt as if I had been suddenly placed in a new empty world, and had to learn how to live again. After a short period of sadness, the classic conversation from Long Vacation came to mind again. Although Long Vacation may not be my favorite Japanese drama, those words between Minami and Sena are truly sweet and comforting. And what I can do by following "No need to rush" is probably to choose a Tuesday afternoon when movie tickets are adorably half-priced, allow myself to sink into the soft reclining seat of the cinema and spend a few hours drifting away from the outside world, to simply feel another different form of life through the eyes of others. When the movie ends and the lights come back on, it is time to get ready to set off again.
+Was made redundant recently, the time that was usually occupied by work suddenly became free, and the coworkers I used to talk to almost every day were no longer there. It felt as if I had been suddenly placed in a new empty world, and had to learn how to live again. After a short period of sadness, the classic conversation from Long Vacation came to mind again. Although Long Vacation may not be my favorite Japanese drama, those words between Minami and Sena are truly sweet and comforting.
+
+And what I can do by following “No need to rush” is probably to choose a Tuesday afternoon when movie tickets are adorably half-priced, sink into the soft, reclining seat of the cinema, and spend a few hours drifting away from the outside world to simply experience another form of life through the eyes of others. When the movie ends and the lights come back on, it is time to get ready to set off again.
 
 > *南：我什么时候才能发光呢？我在干什么？我整天都在玩柏青哥。*
 >
