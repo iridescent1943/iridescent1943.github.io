@@ -1,7 +1,9 @@
+---
 title: Two years in IT
 date: 2026-09-04 19:46:00 +1200
 categories: [coding]
 tags: [IT, AI]
+---
 
 In November 2022, the first version of ChatGPT was released. AI started to penetrate everyday life.
 
