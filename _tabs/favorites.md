@@ -1,5 +1,6 @@
 ---
 # the default layout is 'page'
+title: Favorites
 icon: fas fa-heart
 order: 1
 ---
@@ -13,6 +14,7 @@ order: 1
 - *[Effective Ruby](https://www.oreilly.com/library/view/effective-ruby-48/9780133847086/)* by Peter J. Jones
 
 ## Articles
+
 
 
 
