@@ -6,7 +6,7 @@ categories: [life]
 tags: [babbling]
 ---
 
-![Fruit Forest](fruit-forest.jpeg)
+![Fruit Forest](fruit-forest.jpeg){: style="border-radius: 8px;" }
 *Image Generated with Ideogram AI*
 
 The world we live in breathes a rich, enchanting aroma of fruit.<br>
