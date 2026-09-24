@@ -15,6 +15,10 @@ order: 1
 
 ## Articles
 
+## Tutorials
 
+- *[The Modern JavaScript Tutorial](https://javascript.info/)* by Ilya Kantor & others
 
-
+  > Its explanation of [Object Methods, "this"](https://javascript.info/object-methods) made `this` clear to me.<br>
+  > Do check the [Ninja Code](https://javascript.info/ninja-code) chapter if you have time.
+  {: .prompt-tip }
