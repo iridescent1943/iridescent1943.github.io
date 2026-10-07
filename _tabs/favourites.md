@@ -17,6 +17,9 @@ order: 1
   > Good reminders for many things that junior Ruby developers might overlook.<br>
   > Recommended by a senior I respect a lot, who writes very effective Ruby code.
   {: .small }
+- *[The Pragmatic Programmer: From Journeyman to Master](https://book.douban.com/subject/1152111/)* by Andrew Hunt & David Thomas
+  > Easy to read and humorous. Much of the advice is still relevant although it was first published in 1999. The *Stone Soup and Boiled Frogs* topic in the first chapter was a eye-opener for me.
+  {: .small }
 
 ## Articles
 
